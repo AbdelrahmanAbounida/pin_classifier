@@ -19,7 +19,7 @@ This repository consists of 3 files:
     
  Open             |   Close
 :-------------------------:|:-------------------------:
-![](pin_dataset/train/open/open_0.jpg)  |  ![](pin_dataset/train/close/close_0.jpg)
+![](./open.jpg)  |  ![](./close.jpg)
 
 ## Getting Started 
 
